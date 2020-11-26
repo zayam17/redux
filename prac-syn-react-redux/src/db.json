@@ -1,0 +1,16 @@
+{
+    "users":
+    [
+        {
+            "name":"zayam",
+            "locality": "channai"
+           
+        },
+        {
+           
+            "name":"Raj",
+            "locality":"pune"
+        }
+      
+    ]
+}
